@@ -2,7 +2,7 @@
 - 👀 I’m interested in contributing to your repoo...😉
 - 🌱 I’m currently learning the way to lead a happy life
 - 💞️ I’m looking to collaborate on your system
-- 📫 How to reach me by my linkdin
+- 📫 Reach me by my linkedin
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a good actor, and I know how to code.
 
