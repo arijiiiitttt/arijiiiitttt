@@ -1,3 +1,5 @@
+
+![Profile Views](https://komarev.com/ghpvc/?username=arijiiiitttt&label=Profile%20Views&color=blue&style=flat)  
 - 👋 Hi, I’m @arijiiiitttt  
 - 👀 I’m interested in contributing to your repo...😉  
 - 🌱 I’m currently learning the way to lead a happy life  
@@ -6,7 +8,6 @@
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I am a good actor, and I know how to code.  
 
-![Profile Views](https://komarev.com/ghpvc/?username=arijiiiitttt&label=Profile%20Views&color=blue&style=flat)  
 
 <!---
 arijiiiitttt/arijiiiitttt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.  
